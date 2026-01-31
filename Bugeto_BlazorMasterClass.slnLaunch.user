@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Blazor_MasterClass.BlogAPI\\Blazor_MasterClass.BlogAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebUI\\WebUI\\WebUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
